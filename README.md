@@ -7,7 +7,7 @@ In order for this work, you must add an instance of the `SceneCaptureActor` into
 
 The widget which displays the model is `ModelPreview`
 
-== Troubleshooting ==
+# Troubleshooting
 
 **The widget doesn't compile when I first open**
 
